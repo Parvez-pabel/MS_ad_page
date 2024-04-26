@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero{
+  background-image: url(../img/hero1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  max-width: 100%;
+}
+.tab-content{
+  padding-top: 55px !important;
+}
+
+section .container .ads-img{
+  margin-top: 125px;
+}
+.slider-1{
+  background-image: url(../img/slider1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  max-width: 100%;
+
+}
+.slider-2{
+  background-image: url(../img/slider2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  max-width: 100%;
+
+}
+.slider-3{
+  background-image: url(../img/slider3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  max-width: 100%;
+
+}
+.slider-text{
+  padding: 114px;
+  color: black;
+  font-weight: bold;
+}
+.slider-text p{
+  margin-top: 15px;
+}
